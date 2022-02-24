@@ -1,8 +1,8 @@
-### Hi there I'm Julie Kohl 👋
+### Hi there! I'm Julie Kohl 👋
 
-- 🔭 I’m currently working on Front-end with TypeScript and Vue.JS
-- 🌱 I’m currently learning Express and Database
-- 😄 Pronouns: She/ Her
+- 🔭 I’m a Front-end Developer focused on TypeScript and Vue.JS
+- 🌱 I’m currently learning more about Back-end, which includes Express and MySQL
+- 😄 Pronouns: She/Her
 
 <div align="center">
   <a href="https://github.com/juliekohl">
