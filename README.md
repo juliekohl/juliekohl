@@ -1,6 +1,6 @@
 ### Hi there! I'm Julie Kohl 👋
 
-- 🔭 I’m a Front-end Developer focused on TypeScript and Vue.JS
+- 🔭 I’m a Full-Stack Developer focused on TypeScript and Vue.JS
 - 🌱 I’m currently learning more about Back-end, which includes Express and MySQL
 - 😄 Pronouns: She/Her
 
@@ -18,8 +18,6 @@
   <img align="center" alt="Julie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julie-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Julie-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-<!--   <img align="right" alt="Julie-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
-</div>
   
 ##
  
