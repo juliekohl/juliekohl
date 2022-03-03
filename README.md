@@ -1,6 +1,6 @@
 ### Hi there! I'm Julie Kohl 👋
 
-- 🔭 I’m a Full-Stack Developer focused on TypeScript and Vue.JS
+- 🔭 I’m a Front-end Developer focused on TypeScript and Vue.JS
 - 🌱 I’m currently learning more about Back-end, which includes Express and MySQL
 - 😄 Pronouns: She/Her
 
