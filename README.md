@@ -32,63 +32,53 @@
 
 ### About me
 
-<div>
-
 Since 2020 developing websites and systems using JavaScript. Currently in Brazil.
 
-Core: HTML, CSS and JS. I believe that when you know the core everything else becomes easier.
+#### Core
 
-CSS Architecture: BEM http://getbem.com/introduction/ 
+- HTML, CSS and JS. I believe that when you know the core everything else becomes easier.
+- CSS Architecture: BEM http://getbem.com/introduction/ 
+- Including in CSS: Flexbox and Grid https://as-one.github.io/check-everyday/#/css 
+- CSS Preprocessor: SCSS 
+- Framework: Bootstrap 5 
+- Package manager: npm 
+- CMS: WordPress, Gutenberg, ACF, and other WordPress plugins 
+- Design Tools: Adobe XD and Figma 
 
-Including in CSS: Flexbox and Grid https://as-one.github.io/check-everyday/#/css 
+#### Versioning
 
-CSS Preprocessor: SCSS 
+- CLI: git
+- Flow: GitFlow
+- Tool: Sublime Merge 
 
-Framework: Bootstrap 5 
+#### JavaSprint ES6: 
 
-Package manager: npm 
+- Fundamentals and Browser: https://as-one.github.io/check-everyday/#/js 
+- Preprocessor: TypeScript https://as-one.github.io/check-everyday/#/ts 
 
-CMS: WordPress, Gutenberg, ACF, and other WordPress plugins 
+#### Code Style
+  
+- Prettier
+- ESLint
 
-Design Tools: Adobe XD and Figma 
+#### Testing
 
+- Jest
+- Cypress
 
-Versioning:
+#### Frameworks
 
-CLI: git
+- Vue.js
+- React.js
+- Node
+- Express
 
-Flow: GitFlow
+#### Agile methodologies
 
-Tool: Sublime Merge 
-
-
-JavaSprint ES6: 
-
-Fundamentals and Browser: https://as-one.github.io/check-everyday/#/js 
-
-Preprocessor: TypeScript https://as-one.github.io/check-everyday/#/ts 
-
-Code Style: Prettier and ESLint in VS Code 
-
-Testing: Jest and Cypress
-
-Framework: Node, Express, Vue and React 
-
-
-Agile methodologies:
-
-Scrum
-
-Unit testing
-
-TDD
-
-Pair programming
-
-Sprints 
-
-Kanban 
-
-Planning Poker 
-
-  </div>
+- Scrum
+- Unit testing
+- TDD
+- Pair programming
+- Sprints 
+- Kanban 
+- Planning Poker 
