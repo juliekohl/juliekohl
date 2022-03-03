@@ -30,11 +30,9 @@
  
 </div>
 
-##
-  
-  
+### About me
+
 <div>
-  ## About me
 
 Since 2020 developing websites and systems using JavaScript. Currently in Brazil.
 
