@@ -1,7 +1,7 @@
 ### Hi there! I'm Julie Kohl 👋
 
 - 🔭 I’m a Front-end Developer focused on TypeScript and Vue.JS
-- 🌱 I’m currently learning more about Back-end, which includes Express and MySQL
+- 🌱 I’m currently learning more about Back-end, which includes Express, Laravel, PHP, MySQL and AWS.
 - 😄 Pronouns: She/Her
 
 <div align="center">
@@ -56,6 +56,13 @@ Since 2020 developing websites and systems using JavaScript. Currently in Brazil
 - Fundamentals and Browser: https://as-one.github.io/check-everyday/#/js 
 - Preprocessor: TypeScript https://as-one.github.io/check-everyday/#/ts 
 
+#### PHP 7: 
+
+Including: boilerplate, routing, form validation, testing, RESTful APIs, GraphQL, middleware, debugging, authentication, authorization, databases, pagination, Eloquent, Artisan, Gutenberg, ACF, and other WordPress plugins.
+
+APIs: RESTful, GraphQL.
+Databases: MySQL.
+
 #### Code Style
   
 - Prettier
@@ -72,6 +79,14 @@ Since 2020 developing websites and systems using JavaScript. Currently in Brazil
 - React.js
 - Node
 - Express
+- Laravel
+- WordPress
+
+#### DevOps:
+
+Including: AWS Global Infrastructure, AWS Console and AWS CLI, IAM Roles & Policies,
+EC2, ELB, RDS + Aurola, Route 53, S3 & Athena, CloudFront, Serverless, SQS, SNS, Kineses,
+Lambda, AWS Security.
 
 #### Agile methodologies
 
