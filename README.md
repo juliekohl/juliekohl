@@ -1,8 +1,8 @@
 ### Hi there! I'm Julie Kohl 👋
 
-- 🔭 I’m a Front-end Developer focused on TypeScript and Vue.JS
+- 🔭 I’m a Front-end Developer focused on TypeScript and Vue.JS.
 - 🌱 I’m currently learning more about Back-end, which includes Express, Laravel, PHP, Python, MySQL and AWS.
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her.
 
 <div align="center">
   <a href="https://github.com/juliekohl">
@@ -32,13 +32,13 @@
 
 ### About me
 
-Since 2020 developing websites and systems using JavaScript. Currently in Brazil.
+Since 2020 developing websites and systems using JavaScript/ TypeScript. Currently in Brazil.
 
 #### Core
 
 - HTML, CSS and JS. I believe that when you know the core everything else becomes easier.
 - CSS Architecture: BEM http://getbem.com/introduction/ 
-- Including in CSS: Flexbox and Grid https://as-one.github.io/check-everyday/#/css 
+- Including in CSS: Flexbox and Grid https://check-everyday.vercel.app/css 
 - CSS Preprocessor: SCSS 
 - Framework: Bootstrap 5 
 - Package manager: npm 
@@ -53,8 +53,8 @@ Since 2020 developing websites and systems using JavaScript. Currently in Brazil
 
 #### JavaSprint ES6: 
 
-- Fundamentals and Browser: https://as-one.github.io/check-everyday/#/js 
-- Preprocessor: TypeScript https://as-one.github.io/check-everyday/#/ts 
+- Fundamentals and Browser: https://check-everyday.vercel.app/js 
+- Preprocessor: TypeScript https://check-everyday.vercel.app/ts
 
 #### PHP 7: 
 
